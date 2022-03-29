@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{SITCOMTN-033,
+   author = { Merlin Fisher-Levine },
+    title = {SITCOM Developer Guide},
+     year = 2022,
+    month = Mar,
+   handle = {SITCOMTN-033},
+      url = {https://sitcomtn-033.lsst.io } }
